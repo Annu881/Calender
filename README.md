@@ -8,7 +8,7 @@
 
 This project delivers a sophisticated **Wall Calendar** component that prioritizes user experience (UX) and visual storytelling. Rather than a standard date picker, this is a **lifestyle-driven productivity tool** featuring seasonal imagery, editorial typography, and the unique physical presence of a "Wall Calendar" (including ring binding and wavy transitions).
 
-### 🚀 [Live Demo Link (if deployed)] | 🎥 [Watch Demo Video](https://drive.google.com/file/d/1cS0fzFVkiCbkSsjYg3eX3jIqrV1AAoHW/view?usp=sharing)
+### 🚀 [Live Demo](https://calender-pink-one.vercel.app) | 🎥 [Watch Demo Video](https://drive.google.com/file/d/1cS0fzFVkiCbkSsjYg3eX3jIqrV1AAoHW/view?usp=sharing)
 
 ---
 
